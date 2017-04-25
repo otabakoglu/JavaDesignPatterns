@@ -1,4 +1,4 @@
-package com.example;
+package com.strategy;
 
 /**
  * Created by Rubi on 24.04.2017.
