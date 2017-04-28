@@ -1,4 +1,4 @@
-package com.strategy;
+package Strategy;
 
 /**
  * Created by Rubi on 24.04.2017.

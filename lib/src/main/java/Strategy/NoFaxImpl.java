@@ -1,4 +1,4 @@
-package com.strategy;
+package Strategy;
 
 /**
  * Created by Rubi on 24.04.2017.
@@ -7,6 +7,6 @@ package com.strategy;
 public class NoFaxImpl implements Fax{
     @Override
     public void fax() {
-        System.out.printf("NoFax");
+        System.out.println("NoFax");
     }
 }

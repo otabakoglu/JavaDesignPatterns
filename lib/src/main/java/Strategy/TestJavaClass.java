@@ -1,4 +1,4 @@
-package com.strategy;
+package Strategy;
 
 import  java.lang.*;
 public class TestJavaClass {

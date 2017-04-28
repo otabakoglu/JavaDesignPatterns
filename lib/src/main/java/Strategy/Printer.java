@@ -1,4 +1,4 @@
-package com.strategy;
+package  Strategy;
 
 
 public abstract class Printer {
